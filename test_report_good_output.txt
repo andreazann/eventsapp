@@ -1,0 +1,86 @@
+Running "flutter pub get" in eventsapp...                        1,000ms
+Running Gradle task 'assembleDebug'...                              8.6s
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
+00:00 [32m+0[0m: Eventsapp App (setUpAll)[0m
+
+00:00 [32m+0[0m: Eventsapp App sign in is present[0m
+
+00:01 [32m+1[0m: Eventsapp App email is present[0m
+
+00:01 [32m+2[0m: Eventsapp App password is present[0m
+
+00:02 [32m+3[0m: Eventsapp App noaccount is present[0m
+
+00:02 [32m+4[0m: Eventsapp App forgotpassword is present[0m
+
+00:02 [32m+5[0m: Eventsapp App login is present[0m
+
+00:02 [32m+6[0m: Eventsapp App signup is present[0m
+
+00:02 [32m+7[0m: Eventsapp App register to the application[0m
+
+00:02 [32m+8[0m: Eventsapp App forgot password page[0m
+
+00:02 [32m+9[0m: Eventsapp App Log in[0m
+
+00:24 [32m+10[0m: Eventsapp App sidebar elements visible[0m
+
+00:24 [32m+11[0m: Eventsapp App sidebar my account button[0m
+
+00:24 [32m+12[0m: Eventsapp App sidebar create event button[0m
+
+00:24 [32m+13[0m: Eventsapp App sidebar settings button[0m
+
+00:24 [32m+14[0m: Eventsapp App sidebar logout button[0m
+
+00:29 [32m+15[0m: Eventsapp App (tearDownAll)[0m
+
+00:29 [32m+15[0m: Forgot password widget (setUpAll)[0m
+
+00:30 [32m+15[0m: Forgot password widget reset password page is present[0m
+
+00:30 [32m+16[0m: Forgot password widget reset password title is present[0m
+
+00:30 [32m+17[0m: Forgot password widget reset password title is present[0m
+
+00:30 [32m+18[0m: Forgot password widget forgot password text field is present[0m
+
+00:30 [32m+19[0m: Forgot password widget reset password button is present[0m
+
+00:30 [32m+20[0m: Forgot password widget forgot password[0m
+
+00:31 [32m+21[0m: Forgot password widget (tearDownAll)[0m
+
+00:31 [32m+21[0m: Register widget (setUpAll)[0m
+
+00:31 [32m+21[0m: Register widget register page display[0m
+
+00:31 [32m+22[0m: Register widget first name is present[0m
+
+00:31 [32m+23[0m: Register widget last name is present[0m
+
+00:31 [32m+24[0m: Register widget email is present[0m
+
+00:31 [32m+25[0m: Register widget password is present[0m
+
+00:31 [32m+26[0m: Register widget Register[0m
+
+00:53 [32m+27[0m: Register widget (tearDownAll)[0m
+
+00:53 [32m+27[0m: Home screen and event widgets (setUpAll)[0m
+
+00:53 [32m+27[0m: Home screen and event widgets carousel widget is present[0m
+
+00:53 [32m+28[0m: Home screen and event widgets tabbed widget is present[0m
+
+00:53 [32m+29[0m: Home screen and event widgets Event detail no brand screen[0m
+
+01:15 [32m+30[0m: Home screen and event widgets Event detail brand screen[0m
+
+01:24 [32m+31[0m: Home screen and event widgets Logout[0m
+
+01:24 [32m+32[0m: Home screen and event widgets (tearDownAll)[0m
+
+01:24 [32m+32[0m: All tests passed![0m
+
+

@@ -1,0 +1,86 @@
+Running "flutter pub get" in eventsapp...                          957ms
+Running Gradle task 'assembleDebug'...                              8.6s
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
+00:00 [32m+0[0m: Navigation:  (setUpAll)[0m
+
+00:00 [32m+0[0m: Navigation:  Login screen: sign in is present[0m
+
+00:01 [32m+1[0m: Navigation:  Login screen: email is present[0m
+
+00:01 [32m+2[0m: Navigation:  Login screen: password is present[0m
+
+00:01 [32m+3[0m: Navigation:  Login screen: noaccount is present[0m
+
+00:01 [32m+4[0m: Navigation:  Login screen: forgot password is present[0m
+
+00:01 [32m+5[0m: Navigation:  Login screen: login is present[0m
+
+00:01 [32m+6[0m: Navigation:  Login screen: signup button is present[0m
+
+00:01 [32m+7[0m: Navigation:  Login screen: register screen is reachable[0m
+
+00:02 [32m+8[0m: Navigation:  Login screen: forgot password screen is reachable[0m
+
+00:02 [32m+9[0m: Navigation:  Login screen: Log in action[0m
+
+00:23 [32m+10[0m: Navigation:  Sidebar menu: sidebar elements are visible[0m
+
+00:24 [32m+11[0m: Navigation:  Sidebar menu: my account item brings up my account screen[0m
+
+00:24 [32m+12[0m: Navigation:  Sidebar menu: create event item brings up event creation screen[0m
+
+00:24 [32m+13[0m: Navigation:  Sidebar menu: settings item brings up setting screen[0m
+
+00:24 [32m+14[0m: Navigation:  Sidebar menu: home item brings up home screen[0m
+
+00:45 [32m+15[0m: Navigation:  Sidebar menu: logout item brings up log in screen and logs out the user[0m
+
+00:45 [32m+16[0m: Navigation:  (tearDownAll)[0m
+
+00:45 [32m+16[0m: Forgot password widget:  (setUpAll)[0m
+
+00:45 [32m+16[0m: Forgot password widget:  forgot password button is present and when tapped brings up forgot password screen[0m
+
+00:45 [32m+17[0m: Forgot password widget:  reset password title is present[0m
+
+00:46 [32m+18[0m: Forgot password widget:  reset password text field is present[0m
+
+00:46 [32m+19[0m: Forgot password widget:  reset password button is present[0m
+
+00:46 [32m+20[0m: Forgot password widget:  reset password action[0m
+
+00:46 [32m+21[0m: Forgot password widget:  (tearDownAll)[0m
+
+00:46 [32m+21[0m: Register widget:  (setUpAll)[0m
+
+00:46 [32m+21[0m: Register widget:  register button is present and when tapped brings up register screen[0m
+
+00:47 [32m+22[0m: Register widget:  first name is present[0m
+
+00:47 [32m+23[0m: Register widget:  last name is present[0m
+
+00:47 [32m+24[0m: Register widget:  email is present[0m
+
+00:47 [32m+25[0m: Register widget:  password is present[0m
+
+00:47 [32m+26[0m: Register widget:  Register action[0m
+
+01:07 [32m+27[0m: Register widget:  (tearDownAll)[0m
+
+01:07 [32m+27[0m: Home screen and event details widgets:  (setUpAll)[0m
+
+01:07 [32m+27[0m: Home screen and event details widgets:  carousel widget is present[0m
+
+01:07 [32m+28[0m: Home screen and event details widgets:  tabbed widget is present[0m
+
+01:07 [32m+29[0m: Home screen and event details widgets:  event detail screen for no-brand events is visible and shows the map[0m
+
+01:29 [32m+30[0m: Home screen and event details widgets:  event detail screen for brand events is visible and shows a video[0m
+
+01:59 [32m+31[0m: Home screen and event details widgets:  logout[0m
+
+02:00 [32m+31[0m: Home screen and event details widgets:  (tearDownAll)[0m
+
+02:00 [32m+31[0m: All tests passed![0m
+
+

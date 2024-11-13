@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "881933787783",
+    "project_id": "eventsapp-98b81",
+    "storage_bucket": "eventsapp-98b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881933787783:android:0548904c1dd7badfa18e22",
+        "android_client_info": {
+          "package_name": "com.dima.eventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881933787783-c3v4pv56mtr4jjeju04bosei6d6vh42a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dima.eventsapp",
+            "certificate_hash": "b93984e71036915db3236580230a9961f1b53260"
+          }
+        },
+        {
+          "client_id": "881933787783-guv6r29v762t734tt3j2at1m2iouhg1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvG0B_obJqPGfZBIzQ3Z6nq6Qm4CG-hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881933787783-guv6r29v762t734tt3j2at1m2iouhg1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881933787783-qdo1afkcl0v4e1aaf2ros450tio7nvro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dima.eventsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881933787783:android:c658b4ac5d04b0bfa18e22",
+        "android_client_info": {
+          "package_name": "com.dima.eventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881933787783-5bukl0h4mcjmdluukus6tdel5p7k1oq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventsapp",
+            "certificate_hash": "b93984e71036915db3236580230a9961f1b53260"
+          }
+        },
+        {
+          "client_id": "881933787783-guv6r29v762t734tt3j2at1m2iouhg1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvG0B_obJqPGfZBIzQ3Z6nq6Qm4CG-hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881933787783-guv6r29v762t734tt3j2at1m2iouhg1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881933787783-qdo1afkcl0v4e1aaf2ros450tio7nvro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dima.eventsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
