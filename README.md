@@ -1,18 +1,32 @@
-Design and Implementation of Mobile Application@PoliMi
+# Eventsapp - Flutter application
 
-# eventsapp
+## Design and Implementation of Mobile Application @PoliMi
 
-A new Flutter project.
+Flutter app for Android and iOS listing events around you organized by brands or companies sponsoring with offers and coupons.
 
-## Getting Started
+Features include:
 
-This project is a starting point for a Flutter application.
+* login with email and password, storage -> Google Firebase used
+* location search -> Google Places API
+* maps and marker display -> Google Maps API
+* IFrame player -> Youtube API
 
-A few resources to get you started if this is your first Flutter project:
+## Instructions for use
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Install Flutter SDK
+* Configure an IDE such as Visual Studio Code or Android Studio and make sure to have the plugin for Flutter/Dart
+* Install Java(JDK) and Android Studio
+* Add Flutter to PATH
+* Download dependencies with "flutter pub get"
+* Open Xcode simulator with "open -a Simulator" on Mac or on Windows open the emulator from Android Studio
+* Run the app with "flutter run"
+* To compile the apk "flutter build apk"
+* To compile for ios "flutter build ios"
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![eventsapp3](https://github.com/user-attachments/assets/980cf5a8-5818-4d7f-8390-6ccce916c6c6)
+
+![eventsapp2](https://github.com/user-attachments/assets/220a3896-4502-409c-a4c9-d3d69ee100ee)
+
+![eventsapp1](https://github.com/user-attachments/assets/2cad060f-e4f5-44cc-a10d-23f76c709012)
